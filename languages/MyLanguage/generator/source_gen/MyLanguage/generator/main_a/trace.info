@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="QueriesGenerated.java">
+      <unit at="125,0,128,0" name="MyLanguage.generator.main_a.QueriesGenerated$PROPS" />
+      <unit at="129,0,132,0" name="MyLanguage.generator.main_a.QueriesGenerated$LINKS" />
+      <unit at="53,0,68,0" name="MyLanguage.generator.main_a.QueriesGenerated$DRC" />
+      <unit at="108,0,124,0" name="MyLanguage.generator.main_a.QueriesGenerated$RTQ" />
+      <unit at="80,0,98,0" name="MyLanguage.generator.main_a.QueriesGenerated$PVQ" />
+      <unit at="25,0,133,0" name="MyLanguage.generator.main_a.QueriesGenerated" />
+    </file>
+  </root>
+  <root nodeRef="r:c10730a9-86c6-430e-970e-2aeb5e20bd4a(MyLanguage.generator.main_a@generator)/7747332925455736299">
+    <file name="QueriesGenerated.java">
+      <node id="7747332925455775082" at="30,88,31,16" concept="1" />
+      <node id="7747332925455774824" at="44,14,45,56" concept="0" />
+      <node id="7747332925455774824" at="61,15,62,66" concept="1" />
+      <node id="7747332925455774826" at="30,0,33,0" concept="2" trace="dropRootRule_Condition_0_0#(Ljetbrains/mps/generator/template/DropRootRuleContext;)Z" />
+      <scope id="7747332925455774827" at="30,88,31,16" />
+      <scope id="7747332925455774824" at="61,15,62,66" />
+      <scope id="7747332925455774826" at="30,0,33,0">
+        <var name="_context" id="7747332925455774826" />
+      </scope>
+    </file>
+  </root>
+  <root nodeRef="r:c10730a9-86c6-430e-970e-2aeb5e20bd4a(MyLanguage.generator.main_a@generator)/7747332925455770038">
+    <file name="QueriesGenerated.java">
+      <node id="7747332925455774032" at="33,88,34,78" concept="1" />
+      <node id="7747332925455774022" at="70,14,71,189" concept="0" />
+      <node id="7747332925455774022" at="89,15,90,66" concept="1" />
+      <node id="7747332925455774025" at="33,0,36,0" concept="2" trace="propertyMacro_GetValue_1_0#(Ljetbrains/mps/generator/template/PropertyMacroContext;)Ljava/lang/Object;" />
+      <scope id="7747332925455774026" at="33,88,34,78" />
+      <scope id="7747332925455774022" at="89,15,90,66" />
+      <scope id="7747332925455774025" at="33,0,36,0">
+        <var name="_context" id="7747332925455774025" />
+      </scope>
+    </file>
+  </root>
+  <root nodeRef="r:c10730a9-86c6-430e-970e-2aeb5e20bd4a(MyLanguage.generator.main_a@generator)/7747332925455770098">
+    <file name="QueriesGenerated.java">
+      <node id="7747332925455770185" at="36,88,37,78" concept="1" />
+      <node id="7747332925456070461" at="39,93,40,146" concept="1" />
+      <node id="7747332925455770175" at="71,189,72,189" concept="0" />
+      <node id="7747332925455770175" at="91,15,92,66" concept="1" />
+      <node id="7747332925456068663" at="99,3,100,73" concept="0" />
+      <node id="7747332925456068663" at="117,15,118,70" concept="1" />
+      <node id="7747332925455770178" at="36,0,39,0" concept="2" trace="propertyMacro_GetValue_2_0#(Ljetbrains/mps/generator/template/PropertyMacroContext;)Ljava/lang/Object;" />
+      <node id="7747332925456068666" at="39,0,42,0" concept="2" trace="referenceMacro_GetReferent_2_0#(Ljetbrains/mps/generator/template/ReferenceMacroContext;)Ljava/lang/Object;" />
+      <scope id="7747332925455770179" at="36,88,37,78" />
+      <scope id="7747332925456068667" at="39,93,40,146" />
+      <scope id="7747332925455770175" at="91,15,92,66" />
+      <scope id="7747332925456068663" at="117,15,118,70" />
+      <scope id="7747332925455770178" at="36,0,39,0">
+        <var name="_context" id="7747332925455770178" />
+      </scope>
+      <scope id="7747332925456068666" at="39,0,42,0">
+        <var name="_context" id="7747332925456068666" />
+      </scope>
+    </file>
+  </root>
+</debug-info>
+

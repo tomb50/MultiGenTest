@@ -1,0 +1,5 @@
+# Project exclude paths
+/languages/MyLanguage/classes_gen/
+/languages/MyLanguage/generator/classes_gen/
+/languages/MyLanguage/pre/classes_gen/
+/languages/MyLanguage/sandbox/classes_gen/

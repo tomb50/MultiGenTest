@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="QueriesGenerated.java">
+      <unit at="89,0,92,0" name="MyLanguage.pre_generator.templates.QueriesGenerated$PROPS" />
+      <unit at="93,0,97,0" name="MyLanguage.pre_generator.templates.QueriesGenerated$LINKS" />
+      <unit at="83,0,88,0" name="MyLanguage.pre_generator.templates.QueriesGenerated$CONCEPTS" />
+      <unit at="66,0,82,0" name="MyLanguage.pre_generator.templates.QueriesGenerated$SCB" />
+      <unit at="26,0,98,0" name="MyLanguage.pre_generator.templates.QueriesGenerated" />
+    </file>
+  </root>
+  <root nodeRef="r:10600a61-f054-4654-bbd6-a17f36922e56(MyLanguage.pre_generator.templates@generator)/7747332925455865250">
+    <file name="QueriesGenerated.java">
+      <node id="7747332925455891181" at="33,35,34,212" concept="3" />
+      <node id="7747332925455893919" at="34,212,35,116" concept="0" />
+      <node id="7747332925455899952" at="37,7,38,0" concept="5" />
+      <node id="7747332925455925358" at="40,35,41,212" concept="3" />
+      <node id="7747332925455928573" at="41,212,42,116" concept="0" />
+      <node id="7747332925455935133" at="42,116,43,73" concept="3" />
+      <node id="7747332925455964451" at="46,45,47,126" concept="4" />
+      <node id="7747332925455978318" at="49,21,50,78" concept="0" />
+      <node id="7747332925455865250" at="57,14,58,57" concept="0" />
+      <node id="7747332925455865250" at="74,15,75,58" concept="0" />
+      <node id="7747332925455865250" at="75,58,76,17" concept="4" />
+      <node id="7747332925455963867" at="46,0,49,0" concept="2" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="7747332925455890951" at="33,0,37,0" concept="2" trace="visit#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="7747332925455940794" at="44,27,49,21" concept="3" />
+      <node id="7747332925455865262" at="31,85,37,7" concept="0" />
+      <node id="7747332925455938441" at="43,73,51,9" concept="1" />
+      <node id="7747332925455925128" at="40,0,53,0" concept="2" trace="visit#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="7747332925455900180" at="38,0,53,7" concept="0" />
+      <node id="7747332925455865251" at="31,0,55,0" concept="6" trace="mappingScript_CodeBlock_1#(Ljetbrains/mps/generator/template/MappingScriptContext;)V" />
+      <scope id="7747332925455963868" at="46,45,47,126" />
+      <scope id="7747332925455890952" at="33,35,35,116">
+        <var name="internalC1" id="7747332925455891184" />
+      </scope>
+      <scope id="7747332925455865250" at="74,15,76,17" />
+      <scope id="7747332925455963867" at="46,0,49,0">
+        <var name="it" id="7747332925455963867" />
+      </scope>
+      <scope id="7747332925455890951" at="33,0,37,0">
+        <var name="it" id="7747332925455890951" />
+      </scope>
+      <scope id="7747332925455938443" at="44,27,50,78">
+        <var name="internalC1" id="7747332925455940797" />
+      </scope>
+      <scope id="7747332925455925129" at="40,35,51,9">
+        <var name="c1" id="7747332925455935136" />
+        <var name="internalC2" id="7747332925455925361" />
+      </scope>
+      <scope id="7747332925455925128" at="40,0,53,0">
+        <var name="it" id="7747332925455925128" />
+      </scope>
+      <scope id="7747332925455865252" at="31,85,53,7" />
+      <scope id="7747332925455865251" at="31,0,55,0">
+        <var name="_context" id="7747332925455865251" />
+      </scope>
+      <unit id="7747332925455963867" at="45,130,49,11" name="MyLanguage.pre_generator.templates.QueriesGenerated$2$1" />
+      <unit id="7747332925455890951" at="32,100,37,5" name="MyLanguage.pre_generator.templates.QueriesGenerated$1" />
+      <unit id="7747332925455925128" at="39,100,53,5" name="MyLanguage.pre_generator.templates.QueriesGenerated$2" />
+    </file>
+  </root>
+</debug-info>
+

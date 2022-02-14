@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root>
+    <file name="Apple.java">
+      <unit at="6,0,8,0" name="MyLanguage.sandbox.Apple" />
+    </file>
+    <file name="AppleHolder.java">
+      <unit at="6,0,10,0" name="MyLanguage.sandbox.AppleHolder" />
+    </file>
+  </root>
+</debug-info>
+
